@@ -16,6 +16,7 @@ export function RoutesComponent() {
     return (
         <div>
             <Routes>
+                <Route path={"/"} element={<div> </div>}/>
                 <Route path={PATH.PRE_JUNIOR} element={<PreJunior/>}/>
                 <Route path={PATH.JUNIOR} element={<Junior/>}/>
                 <Route path={PATH.JUNIORPLUS} element={<JuniorPlus/>}/>
