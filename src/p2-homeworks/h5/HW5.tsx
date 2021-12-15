@@ -6,7 +6,7 @@ import {BrowserRouter} from 'react-router-dom';
 function HW5() {
     return (
         <div>
-            <BrowserRouter>
+            <BrowserRouter basename={'IgnatHomeTasks'}>
                 <Header/>
                 <RoutesComponent/>
             </BrowserRouter>
