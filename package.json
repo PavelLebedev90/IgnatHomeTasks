@@ -12,10 +12,11 @@
     "@types/react-dom": "^16.9.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^6.1.1",
     "react-scripts": "3.4.1",
     "typescript": "~3.7.2"
   },
-"homepage": "http://PavelLebedev90.github.io/IgnatHomeTasks",
+  "homepage": "http://PavelLebedev90.github.io/IgnatHomeTasks",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
