@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/IgnatHomeTasks/static/css/main.e7fd3f48.chunk.css",
-    "main.js": "/IgnatHomeTasks/static/js/main.475454d4.chunk.js",
-    "main.js.map": "/IgnatHomeTasks/static/js/main.475454d4.chunk.js.map",
+    "main.js": "/IgnatHomeTasks/static/js/main.dba61c54.chunk.js",
+    "main.js.map": "/IgnatHomeTasks/static/js/main.dba61c54.chunk.js.map",
     "runtime-main.js": "/IgnatHomeTasks/static/js/runtime-main.93398860.js",
     "runtime-main.js.map": "/IgnatHomeTasks/static/js/runtime-main.93398860.js.map",
-    "static/js/2.97f1491a.chunk.js": "/IgnatHomeTasks/static/js/2.97f1491a.chunk.js",
-    "static/js/2.97f1491a.chunk.js.map": "/IgnatHomeTasks/static/js/2.97f1491a.chunk.js.map",
+    "static/js/2.a7a857b6.chunk.js": "/IgnatHomeTasks/static/js/2.a7a857b6.chunk.js",
+    "static/js/2.a7a857b6.chunk.js.map": "/IgnatHomeTasks/static/js/2.a7a857b6.chunk.js.map",
     "index.html": "/IgnatHomeTasks/index.html",
-    "precache-manifest.36e8d4d44f9114065e73d3a4f4af45b3.js": "/IgnatHomeTasks/precache-manifest.36e8d4d44f9114065e73d3a4f4af45b3.js",
+    "precache-manifest.50b2dc134a9c92aa571e0b2e4f7ba532.js": "/IgnatHomeTasks/precache-manifest.50b2dc134a9c92aa571e0b2e4f7ba532.js",
     "service-worker.js": "/IgnatHomeTasks/service-worker.js",
     "static/css/main.e7fd3f48.chunk.css.map": "/IgnatHomeTasks/static/css/main.e7fd3f48.chunk.css.map",
-    "static/js/2.97f1491a.chunk.js.LICENSE.txt": "/IgnatHomeTasks/static/js/2.97f1491a.chunk.js.LICENSE.txt"
+    "static/js/2.a7a857b6.chunk.js.LICENSE.txt": "/IgnatHomeTasks/static/js/2.a7a857b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93398860.js",
-    "static/js/2.97f1491a.chunk.js",
+    "static/js/2.a7a857b6.chunk.js",
     "static/css/main.e7fd3f48.chunk.css",
-    "static/js/main.475454d4.chunk.js"
+    "static/js/main.dba61c54.chunk.js"
   ]
 }
