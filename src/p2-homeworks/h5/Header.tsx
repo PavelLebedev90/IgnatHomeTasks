@@ -66,15 +66,15 @@ function Header() {
     return (
 
 
-       /*   <span className={classes.NavLink}>
-                <NavLink to={'/pre-junior'}>pre-junior </NavLink>
-            </span>
-            <span className={classes.NavLink}>
-                <NavLink to={'/junior'}>junior </NavLink>
-            </span>
-            <span className={classes.NavLink}>
-                <NavLink to={'/juniorplus'}>junior++</NavLink>
-            </span>*/
+        // <><span>
+        //         <NavLink to={'/pre-junior'}>pre-junior </NavLink>
+        //     </span>
+        //     <span>
+        //         <NavLink to={'/junior'}>junior </NavLink>
+        //     </span>
+        //     <span>
+        //         <NavLink to={'/juniorplus'}>junior++</NavLink>
+        //     </span></>
 
             <div className="App">
                 <Main>
